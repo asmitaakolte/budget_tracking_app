@@ -1,11 +1,8 @@
 # Ignore node_modules in both frontend and backend
-budget-tracking-backend/node_modules
-budget-tracking-backend/node_modules
+/node_modules
 
 # Ignore build artifacts
-budget-tracking-backend/build
-budget-tracking-backend/build
-
+/build
 # Other typical files to ignore
 .DS_Store
 *.log
